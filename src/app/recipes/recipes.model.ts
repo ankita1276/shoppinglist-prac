@@ -1,0 +1,4 @@
+export class Recipes {
+  constructor(public name: string, public description: string, public imageurl: string, public datePublish:number) {
+  }
+}
